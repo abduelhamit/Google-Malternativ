@@ -1,8 +1,11 @@
 {
     "manifest_version": 2,
     "name": "Google Malternativ",
+    "short_name": "Malternativ",
     "version": "1.0.0",
-    "description": "Diese Erweiterung fügt \"Malternativ\" zu jeder Google-Suchanfrage hinzu. Siehe https://youtu.be/Nh2IBsdVywQ?t=58",
+    "description": "Diese Erweiterung fügt \"Malternativ\" zu jeder Google-Suchanfrage hinzu.",
+    "author": "Abdülhamit Yilmaz",
+    "homepage_url": "https://github.com/abduelhamit/Google-Malternativ",
     "icons": {
         "16": "icon16.png",
         "32": "icon32.png",
