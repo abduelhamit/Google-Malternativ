@@ -2,5 +2,11 @@
     "manifest_version": 2,
     "name": "Google Malternativ",
     "version": "1.0.0",
-    "description": "Diese Erweiterung fügt \"Malternativ\" zu jeder Google-Suchanfrage hinzu. Siehe https://youtu.be/Nh2IBsdVywQ?t=58"
+    "description": "Diese Erweiterung fügt \"Malternativ\" zu jeder Google-Suchanfrage hinzu. Siehe https://youtu.be/Nh2IBsdVywQ?t=58",
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
 }
