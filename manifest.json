@@ -8,5 +8,17 @@
         "32": "icon32.png",
         "48": "icon48.png",
         "128": "icon128.png"
-    }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.google.com/*",
+                "https://www.google.de/*"
+            ],
+            "js": [
+                "contentScript.js"
+            ],
+            "run_at": "document_start"
+        }
+    ]
 }
