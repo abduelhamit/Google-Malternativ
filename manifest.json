@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Google Malternativ",
     "short_name": "Malternativ",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Diese Erweiterung fügt \"Malternativ\" zu jeder Google-Suchanfrage hinzu.",
     "author": "Abdülhamit Yilmaz",
     "homepage_url": "https://github.com/abduelhamit/Google-Malternativ",

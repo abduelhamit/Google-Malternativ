@@ -9,5 +9,5 @@
     }
 
     url.searchParams.set(paramName, search + " Malternativ");
-    location.href = url.href;
+    location.replace(url.href);
 }());
